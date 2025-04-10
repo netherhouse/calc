@@ -70,8 +70,8 @@ function Calculator() {
       </div>
       <div className="technologies-used">
         <p>
-          <strong>Technologies used:</strong> React, JSX, CSS Modules,
-          JavaScript (useState, events handling)
+          <strong>Technologies used:</strong> React(useState, events handling),
+          JSX, CSS Modules
         </p>
       </div>
     </div>

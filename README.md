@@ -2,7 +2,7 @@
 
 A simple yet stylish calculator application built with React and Vite. This calculator supports basic arithmetic operations with a modern user interface.
 
-![Calculator Screenshot](./screenshot.png)
+![Calculator Screenshot](./photo.jpg)
 
 ## Features
 
@@ -64,11 +64,3 @@ In the project directory, you can run:
 - Use "+1" or "-1" buttons for quick increment/decrement
 - Press "C" to clear the calculator display
 - Use "," for decimal numbers
-
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
